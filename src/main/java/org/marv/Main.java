@@ -14,7 +14,5 @@ public class Main {
         //mostrar informacion actualizada del coche
         System.out.println("Informacion actual del coche");
         micar.showInformation();
-
-
     }
 }
