@@ -12,7 +12,9 @@ public class Main {
         micar.drive(150);
 
         //mostrar informacion actualizada del coche
+        System.out.println("Informacion actual del coche");
         micar.showInformation();
+
 
     }
 }
